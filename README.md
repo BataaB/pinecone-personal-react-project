@@ -1,0 +1,1 @@
+# pinecone-personal-react-project
